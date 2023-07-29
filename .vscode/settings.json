@@ -1,0 +1,16 @@
+{
+    "C_Cpp.errorSquiggles": "disabled",
+    "files.associations": {
+        "driverlib.h": "c",
+        "gpio.h": "c",
+        "msp430.h": "c",
+        "bsp_i2c.h": "c",
+        "delay.h": "c",
+        "bsp_spi.h": "c",
+        "24l01.h": "c",
+        "wit_c_sdk.h": "c",
+        "jy901.h": "c",
+        "oled.h": "c",
+        "laser_ranging.h": "c"
+    }
+}

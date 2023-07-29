@@ -1,0 +1,6 @@
+# FIXED
+
+BSP/BSP_SPI/BSP_SPI.obj: ../BSP/BSP_SPI/BSP_SPI.c
+
+../BSP/BSP_SPI/BSP_SPI.c:
+
